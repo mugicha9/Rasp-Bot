@@ -1,2 +1,2 @@
-# What's is it?
+# What is this?
 次にやる作業や、修正点を書き残すファイル.
